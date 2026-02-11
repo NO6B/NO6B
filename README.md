@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NO6B&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NO6B&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=NO6B&label=Profile%20Views&color=blue&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
